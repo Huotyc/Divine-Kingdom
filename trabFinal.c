@@ -1,8 +1,8 @@
 /**
-Jorge Gabriel de Oliveira Medeiros - 495858
-Pedro Henrique Resende Marques     - 494569
-Savio moreira garcia da silva      - 499785
-Taynara Diniz Moreira de Souza     - 501120 
+Jorge Gabriel de Oliveira Medeiros 
+Pedro Henrique Resende Marques     
+Savio moreira garcia da silva     
+Taynara Diniz Moreira de Souza     
  **/
 
 #include <stdio.h>
